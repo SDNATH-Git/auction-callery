@@ -12,7 +12,7 @@ const Navbar = () => {
     <h3 className='text-3xl text-[#003EA4] font-semibold'>Auction<span className='text-[#FFD337] font-extrabold'>Gallery</span></h3>                
   </div>
 
-  <div className="navbar-center flex items-center gap-8">
+  <div className="navbar-center flex items-center gap-8 ">
     <a href="" className='font-bold'>Home</a>
     <a href="" className='  font-bold'>Auctions</a>
     <a href="" className='font-bold'>Categories</a>
